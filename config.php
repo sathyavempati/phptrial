@@ -7,7 +7,7 @@
 
 $host       = "localhost";
 $username   = "root";
-$password   = "myentry";
+$password   = "root";
 $dbname     = "phptrial";
 $dsn        = "mysql:host=$host;dbname=$dbname";
 $options    = array(
